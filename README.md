@@ -897,12 +897,6 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 ```
 
 
-## 📝 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
-
----
-
 ## 👤 Geliştirici
 
 **Berkay Genceroğlu**
@@ -913,6 +907,22 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 ---
 
 
+## 📫 İletişim
+
+Proje hakkında sorularınız, önerileriniz ya da katkı istekleriniz için benimle iletişime geçebilirsiniz:
+
+- 📧 E-posta: **berkaygenceroglu6@example.com**  
+- 🔗 LinkedIn: [Berkay Genceroğlu]((https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/))  
+
+---
+
+## 💬 Son Söz
+
+Teşekkürler! Bu projeyi kullandığınız veya katkıda bulunduğunuz için memnuniyet duyarım.  
+Her türlü geri bildirime açığım.
+
+**İyi kodlamalar! 🚀**
+<img width="483" height="351" alt="image" src="https://github.com/user-attachments/assets/7db3c277-7047-4275-80ec-e4a48b231c84" />
 
 
 
