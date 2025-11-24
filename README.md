@@ -902,7 +902,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 **Berkay Genceroğlu**
 
 - GitHub: [@BerkayGenceroglu](https://github.com/BerkayGenceroglu)
-- LinkedIn: [Berkay Genceroğlu]([https://www.linkedin.com/in/berkay-gencero%C4%9Flu/](https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/))
+- LinkedIn: (https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/)
 
 ---
 
@@ -912,7 +912,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 Proje hakkında sorularınız, önerileriniz ya da katkı istekleriniz için benimle iletişime geçebilirsiniz:
 
 - 📧 E-posta: **berkaygenceroglu6@gmail.com**  
-- 🔗 LinkedIn: [Berkay Genceroğlu]([https://www.linkedin.com/in/berkay-gencero%C4%9Flu/](https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/))  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/berkay-gencero%C4%9Flu-586b52331/)
 
 ---
 
