@@ -763,9 +763,10 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Adres
 - Telefon
 - Email
-<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/76e4f6df-ee2b-4dbd-9ff3-db0ad60f4117" />
-<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/0e1c95e6-2ac9-4210-b144-fc782b5f3b4d" />
-<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/f7c4609d-5ca8-495e-8d95-e94ed0ae66b9" />
+<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/b8516818-3a39-47c7-8384-c0de33b53cad" />
+<img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/b65d9ae1-fbb1-4402-a907-1797a0b27542" />
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/91e4ee11-57cb-4b8f-a0b3-e2ad80904f60" />
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/70b95654-6041-455e-ad1d-509f10a1275b" />
 
 ---
 
@@ -777,7 +778,8 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Günlük (Daily)
 - Haftalık (Weekly)
 - Aylık (Monthly)
-<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/f87f442d-8e4e-4300-8641-2c95fcf2cd54" />
+
+<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/f7c4609d-5ca8-495e-8d95-e94ed0ae66b9" />
 <img width="1912" height="946" alt="image" src="https://github.com/user-attachments/assets/c7b92add-79f7-45a6-9754-559cddb0fb7c" />
 <img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/16bbf547-644a-4c17-8711-763a20bfebd3" />
 
@@ -796,7 +798,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Açıklama
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/cf4b5719-e70a-413c-8555-5280cb9691a1" />
 <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/d20a970c-d5bb-4c20-9edd-7a0dc0c58e3e" />
-<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/eb5223af-f16b-42c4-88b0-a03a4db2bbfe" />
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/0054c572-201e-427c-b522-56afc9c011c2" />
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/106d6b5d-9737-4288-916e-c8028e4a57e1" />
 
 ---
@@ -814,7 +816,6 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 
 <img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/45bcbf99-a49f-42a7-89f8-9bfefd22b7b5" />
 <img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/fb31b179-349f-4e9e-894f-8228ec274e30" />
-<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/151e1f5a-c0cc-4a7a-a187-4c2ce60fa2af" />
 
 ---
 
