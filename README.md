@@ -127,17 +127,9 @@ Proje, **MSSQL Server** kullanmaktadır ve **27 farklı tablo** içermektedir.
 ### 🔗 Veritabanı İlişki Diyagramı
 
 ```
-Brand ──(1:N)──> Cars
-Car ──(1:N)──> CarPricing
-Car ──(1:N)──> Reviews
-Car ──(1:N)──> Reservations
-Car ──(M:N)──> Features (CarFeature üzerinden)
-Pricing ──(1:N)──> CarPricing
-Location ──(1:N)──> Reservations (Pickup/Dropoff)
-Blog ──(1:N)──> Comments
-Category ──(1:N)──> Blogs
-Author ──(1:N)──> Blogs
-```
+<img width="970" height="864" alt="image" src="https://github.com/user-attachments/assets/81033ead-0c77-4a6e-9774-c89c5a06ea35" />
+
+
 
 ---
 
