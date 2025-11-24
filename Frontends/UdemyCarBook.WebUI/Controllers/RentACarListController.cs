@@ -21,6 +21,8 @@ namespace UdemyCarBook.WebUI.Controllers
 
         public async Task<IActionResult> Index(RentACarRequestViewModel model)
         {
+            ViewBag.v1 = "Lokasyonlar";
+            ViewBag.v2 = "Bu Lokasyonda Bulunan Araçlar";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync($"https://localhost:7238/api/RentACars?LocationId={model.LocationId}&status=true");
             if (responseMessage.IsSuccessStatusCode)
