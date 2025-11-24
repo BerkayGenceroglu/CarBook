@@ -264,12 +264,10 @@ Web sitesinin vitrin sayfasıdır. Ziyaretçileri karşılayan ilk ekrandır.
 > <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/96b1c585-4b51-45c2-9e3a-0e90b9aca97b" />
 <img width="1914" height="952" alt="image" src="https://github.com/user-attachments/assets/fcad3b0f-0a4f-4fdf-8be9-61658d8d9b44" />
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/8d5053a7-c6a6-4d65-9e5a-3c94c39d8918" />
-<img width="1903" height="681" alt="image" src="https://github.com/user-attachments/assets/18d40a67-d70a-47da-9424-8f2ec631d0a5" />
-<img width="1913" height="746" alt="image" src="https://github.com/user-attachments/assets/1c1e3360-e228-4f1a-b46b-592b9ce2705d" />
-<img width="1915" height="684" alt="image" src="https://github.com/user-attachments/assets/508e04d6-72a1-47ca-a689-30250876f4e6" />
-<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/e1fa734f-a7af-44fc-9d40-bf4863e92049" />
-
-
+<img width="1920" height="770" alt="image" src="https://github.com/user-attachments/assets/41c3dbf5-fbff-4f1a-8bfe-920f1e1258ef" />
+<img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/58273e95-d44f-4ee6-b111-11ce6c0f1ea9" />
+<img width="1920" height="859" alt="image" src="https://github.com/user-attachments/assets/34c0e501-c506-4140-b1e4-72892ba4067b" />
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/4d4be169-93c7-477e-bd09-e957bf1e9952" />
 ---
 
 ### 2. Araç Listeleme Sayfası
