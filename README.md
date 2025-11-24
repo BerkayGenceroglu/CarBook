@@ -243,6 +243,10 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 <img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/58273e95-d44f-4ee6-b111-11ce6c0f1ea9" />
 <img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/85c6c818-853c-4b5f-b32e-5ca6ccfb070f" />
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/4d4be169-93c7-477e-bd09-e957bf1e9952" />
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/d4e88194-4c7f-410c-8ae8-1ac3a9aaf315" />
+<img width="1915" height="949" alt="image" src="https://github.com/user-attachments/assets/0a005106-add8-4de0-a5cd-12e34c60e5b2" />
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/174b1558-6531-4ab2-ab25-d0261b7d7796" />
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/f993b604-efd8-4eb3-bc0e-fd81b9bbd370" />
 ---
 
 #### 2. Araç Listeleme Sayfası (Car Listing)
@@ -266,11 +270,9 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 <img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/4c2076f2-d32c-40b3-9552-c6069ef0ab82" />
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/6fedb616-289a-4fb3-82dd-9a29e3bb1d0d" />
 <img width="1916" height="953" alt="image" src="https://github.com/user-attachments/assets/86e1a069-b6cb-47ce-928e-35606e131db4" />
-<img width="1915" height="949" alt="image" src="https://github.com/user-attachments/assets/0a005106-add8-4de0-a5cd-12e34c60e5b2" />
-<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/5eda2883-25d1-4426-bed6-ffb12e38c15e" />
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/f993b604-efd8-4eb3-bc0e-fd81b9bbd370" />
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/d4e88194-4c7f-410c-8ae8-1ac3a9aaf315" />
-<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/174b1558-6531-4ab2-ab25-d0261b7d7796" />
+
+
+
 
 
 
