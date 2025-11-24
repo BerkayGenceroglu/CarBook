@@ -268,7 +268,6 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 - 🔗 Detay sayfasına yönlendirme
   
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/e152aa5f-095a-4ae1-a58f-f8c5fab5fcfa" />
-<img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/29065d37-d37d-41d7-980b-083e5d675dfd" />
 <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/8aa26d52-70c1-474c-ad7b-3eb6bb0d19d9" />
 <img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/4c2076f2-d32c-40b3-9552-c6069ef0ab82" />
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/6fedb616-289a-4fb3-82dd-9a29e3bb1d0d" />
