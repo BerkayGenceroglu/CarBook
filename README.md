@@ -642,7 +642,6 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Görsel URL
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/9d92da5c-298d-4b22-960b-ed8365a4b601" />
 <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/4bb2fe1f-19ed-4a5f-be1b-f6ca0650d63c" />
-<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/6259840e-19e2-46e0-851a-02f7b651a790" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/242fe54d-5b6c-4227-924b-5d887a01f207" />
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/93bbb205-156f-4849-8340-25c8f52af3e8" />
 ---
@@ -799,7 +798,6 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/d20a970c-d5bb-4c20-9edd-7a0dc0c58e3e" />
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/eb5223af-f16b-42c4-88b0-a03a4db2bbfe" />
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/106d6b5d-9737-4288-916e-c8028e4a57e1" />
-<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/45bcbf99-a49f-42a7-89f8-9bfefd22b7b5" />
 
 ---
 
@@ -813,6 +811,8 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Instagram URL
 - LinkedIn URL
 - İkon seçimi
+
+<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/45bcbf99-a49f-42a7-89f8-9bfefd22b7b5" />
 <img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/fb31b179-349f-4e9e-894f-8228ec274e30" />
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/151e1f5a-c0cc-4a7a-a187-4c2ce60fa2af" />
 
@@ -826,10 +826,10 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Blog yazılarına etiket atama
 - Etiket bazlı arama
 - Her blog için birden fazla etiket
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/151e1f5a-c0cc-4a7a-a187-4c2ce60fa2af" />
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/1360bfe9-63a0-4613-a46b-12b718f2a0c9" />
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/200b7355-663d-4439-8034-1c25a130eeed" />
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/e26825f3-79e1-4db2-ab10-76014abd6e7e" />
-<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/edeb372a-4eb1-4695-a09d-45541cf521be" />
 
 
 
