@@ -556,7 +556,6 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 **Güncelleme:** `/Admin/AdminCar/UpdateCar/{id}`
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/1743c469-6a6a-40fd-8f13-493b1aa21b0a" />
 <img width="1471" height="881" alt="image" src="https://github.com/user-attachments/assets/b0266ddd-c3c6-43e4-855f-bb6f2c9a19f1" />
-<img width="1918" height="955" alt="image" src="https://github.com/user-attachments/assets/0b5eb048-71ab-441a-977c-77a017ad9cc9" />
 
 
 
@@ -590,7 +589,9 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Tüm özellikler listelenir (GPS, Klima, Bluetooth vs.)
 <img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/ef0e5f24-ea01-49f0-9adb-2699fdd2b00d" />
 <img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/c87130e5-1b7d-4dc1-9585-f766b60abfe7" />
-<img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/e5ddb726-4c3e-48e6-994e-8460e8b61e32" />
+<img width="1918" height="955" alt="image" src="https://github.com/user-attachments/assets/0b5eb048-71ab-441a-977c-77a017ad9cc9" />
+
+
 
 ---
 
