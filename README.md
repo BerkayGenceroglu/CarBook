@@ -392,6 +392,25 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/22f01d78-f6f3-43be-b0be-e92768a409e7" />
 
 ---
+#### 7. Hakkımızda Sayfası (About)
+
+**Yol:** ` /CarPricing/Index`
+
+**Açıklama:** Araçların kiralama fiyatlarını listeleme sayfası..
+
+**İçerik:**
+- 🚗 Araç kartları (model, görsel, yıldız puanı)
+- 💵 Fiyat tablosu (Saatlik, Günlük, Haftalık, Aylık)
+- ⏱️ Periyot bazlı fiyatlandırma
+- 📊 Karşılaştırmalı görünüm
+- 🔗 Detay sayfasına link
+<img width="1920" height="930" alt="image" src="https://github.com/user-attachments/assets/94dd976c-dda6-47f8-a06f-329a8bb4a87a" />
+<img width="1911" height="951" alt="image" src="https://github.com/user-attachments/assets/018fd706-34bd-4494-b594-a4bfa9620660" />
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/09c75f63-12fc-467d-b224-1acd316be247" />
+
+
+---
+
 #### 8. Kampanya Sayfası (CampaignCar)
 
 **Yol:** `/CampaignCar/Index`
