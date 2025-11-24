@@ -191,7 +191,7 @@ Bu ekran, yeni kullanıcıların sisteme üye olması için geliştirilmiş bir 
 
 Zaten hesabı olan kullanıcılar için sayfanın altında **"Giriş Yap"** linki bulunur.
 
-> **Not:** Ekran görüntüsü eklenecek
+> <img width="1916" height="943" alt="image" src="https://github.com/user-attachments/assets/bb28589c-16cb-497a-be74-0999b53d6013" />
 
 ---
 
@@ -210,7 +210,8 @@ Kayıtlı kullanıcıların sisteme güvenli bir şekilde giriş yapmasını sa�
 
 Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 
-> **Not:** Ekran görüntüsü eklenecek
+> <img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/62cb48a9-8727-41fa-9336-36d07bdb758f" />
+
 
 ---
 
@@ -260,7 +261,14 @@ Web sitesinin vitrin sayfasıdır. Ziyaretçileri karşılayan ilk ekrandır.
   - Toplam lokasyon
   - Mutlu müşteri sayısı
 
-> **Not:** Ekran görüntüleri eklenecek
+> <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/96b1c585-4b51-45c2-9e3a-0e90b9aca97b" />
+<img width="1914" height="952" alt="image" src="https://github.com/user-attachments/assets/fcad3b0f-0a4f-4fdf-8be9-61658d8d9b44" />
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/8d5053a7-c6a6-4d65-9e5a-3c94c39d8918" />
+<img width="1903" height="681" alt="image" src="https://github.com/user-attachments/assets/18d40a67-d70a-47da-9424-8f2ec631d0a5" />
+<img width="1913" height="746" alt="image" src="https://github.com/user-attachments/assets/1c1e3360-e228-4f1a-b46b-592b9ce2705d" />
+<img width="1915" height="684" alt="image" src="https://github.com/user-attachments/assets/508e04d6-72a1-47ca-a689-30250876f4e6" />
+<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/e1fa734f-a7af-44fc-9d40-bf4863e92049" />
+
 
 ---
 
