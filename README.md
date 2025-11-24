@@ -126,7 +126,7 @@ Proje, **MSSQL Server** kullanmaktadır ve **27 farklı tablo** içermektedir.
 
 ### 🔗 Veritabanı İlişki Diyagramı
 
-```
+
 <img width="970" height="864" alt="image" src="https://github.com/user-attachments/assets/81033ead-0c77-4a6e-9774-c89c5a06ea35" />
 
 
