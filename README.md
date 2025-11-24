@@ -606,7 +606,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/ba249642-4b2e-472b-acc2-c119625514d7" />
 <img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/5c5debab-2dda-4760-b8f8-968c430e4412" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/a03b3f04-381f-4c2a-b0d7-74e0e003ffcd" />
-<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/93bbb205-156f-4849-8340-25c8f52af3e8" />
+<img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/e5ddb726-4c3e-48e6-994e-8460e8b61e32" />
 
 ---
 
@@ -625,8 +625,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/ad19ecd7-bd13-4417-8ea6-7b1f82a92407" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/0297f144-18e5-4bc4-bb26-8a624dd776d3" />
 <img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/f276c2b6-a729-4bc7-8c0d-f4579831597b" />
-
-<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/6259840e-19e2-46e0-851a-02f7b651a790" />
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/93bbb205-156f-4849-8340-25c8f52af3e8" />
 
 ---
 
@@ -643,7 +642,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/9d92da5c-298d-4b22-960b-ed8365a4b601" />
 <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/4bb2fe1f-19ed-4a5f-be1b-f6ca0650d63c" />
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/5314dc6e-68b3-4e82-b84a-2ee820c1c298" />
-
+<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/6259840e-19e2-46e0-851a-02f7b651a790" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/242fe54d-5b6c-4227-924b-5d887a01f207" />
 
 ---
