@@ -246,6 +246,8 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/4d4be169-93c7-477e-bd09-e957bf1e9952" />
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/174b1558-6531-4ab2-ab25-d0261b7d7796" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/d4e88194-4c7f-410c-8ae8-1ac3a9aaf315" />
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/1ff456a6-3fcc-4c36-82e6-b80457d00dd8" />
+
 ---
 
 #### 2. Araç Listeleme Sayfası (Car Listing)
