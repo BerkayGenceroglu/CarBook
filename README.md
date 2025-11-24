@@ -436,6 +436,8 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 
 <img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/ab39f375-0fa3-4c91-8f58-64ccb5f34844" />
 
+<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/9b09c4fc-46d1-49fa-9e0d-bc1a5366a35c" />
+
 
 
 ---
