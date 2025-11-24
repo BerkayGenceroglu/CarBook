@@ -237,16 +237,16 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 - AJAX ile dinamik veri yükleme
 - ViewComponent yapısı ile modüler kodlama
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/96b1c585-4b51-45c2-9e3a-0e90b9aca97b" />
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/f993b604-efd8-4eb3-bc0e-fd81b9bbd370" />
 <img width="1914" height="952" alt="image" src="https://github.com/user-attachments/assets/fcad3b0f-0a4f-4fdf-8be9-61658d8d9b44" />
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/8d5053a7-c6a6-4d65-9e5a-3c94c39d8918" />
 <img width="1920" height="770" alt="image" src="https://github.com/user-attachments/assets/41c3dbf5-fbff-4f1a-8bfe-920f1e1258ef" />
 <img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/58273e95-d44f-4ee6-b111-11ce6c0f1ea9" />
 <img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/85c6c818-853c-4b5f-b32e-5ca6ccfb070f" />
-<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/4d4be169-93c7-477e-bd09-e957bf1e9952" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/d4e88194-4c7f-410c-8ae8-1ac3a9aaf315" />
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/4d4be169-93c7-477e-bd09-e957bf1e9952" />
 <img width="1915" height="949" alt="image" src="https://github.com/user-attachments/assets/0a005106-add8-4de0-a5cd-12e34c60e5b2" />
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/174b1558-6531-4ab2-ab25-d0261b7d7796" />
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/f993b604-efd8-4eb3-bc0e-fd81b9bbd370" />
 ---
 
 #### 2. Araç Listeleme Sayfası (Car Listing)
