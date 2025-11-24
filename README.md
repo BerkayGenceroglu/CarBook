@@ -564,6 +564,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 **Güncelleme:** `/Admin/AdminCar/UpdateCar/{id}`
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/1743c469-6a6a-40fd-8f13-493b1aa21b0a" />
 <img width="1471" height="881" alt="image" src="https://github.com/user-attachments/assets/b0266ddd-c3c6-43e4-855f-bb6f2c9a19f1" />
+<img width="1918" height="955" alt="image" src="https://github.com/user-attachments/assets/0b5eb048-71ab-441a-977c-77a017ad9cc9" />
 
 
 
@@ -591,11 +592,13 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/46098ecc-48ff-42df-aec0-24ff1c083822" />
 
 
+
 #### 4. Araç Özellik Listesi (Admin Feature)
 **Çalışma Mantığı:**
 - Tüm özellikler listelenir (GPS, Klima, Bluetooth vs.)
 <img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/ef0e5f24-ea01-49f0-9adb-2699fdd2b00d" />
 <img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/c87130e5-1b7d-4dc1-9585-f766b60abfe7" />
+<img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/e5ddb726-4c3e-48e6-994e-8460e8b61e32" />
 
 ---
 
@@ -611,6 +614,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/ba249642-4b2e-472b-acc2-c119625514d7" />
 <img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/5c5debab-2dda-4760-b8f8-968c430e4412" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/a03b3f04-381f-4c2a-b0d7-74e0e003ffcd" />
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/93bbb205-156f-4849-8340-25c8f52af3e8" />
 
 ---
 
@@ -628,6 +632,8 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Buton linki
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/ad19ecd7-bd13-4417-8ea6-7b1f82a92407" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/0297f144-18e5-4bc4-bb26-8a624dd776d3" />
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/f276c2b6-a729-4bc7-8c0d-f4579831597b" />
+
 <img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/6259840e-19e2-46e0-851a-02f7b651a790" />
 
 ---
@@ -644,6 +650,8 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Görsel URL
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/9d92da5c-298d-4b22-960b-ed8365a4b601" />
 <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/4bb2fe1f-19ed-4a5f-be1b-f6ca0650d63c" />
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/5314dc6e-68b3-4e82-b84a-2ee820c1c298" />
+
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/242fe54d-5b6c-4227-924b-5d887a01f207" />
 
 ---
@@ -658,6 +666,8 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Her servis için: Başlık, Açıklama, İkon
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/f3efdcce-c297-4bb4-ad1c-43f76b45ec50" />
 <img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/c965fc96-2792-442a-942d-bca28392d6fb" />
+<img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/2ed39678-bad1-4aab-b8d3-ce51e8ef9dad" />
+
 <img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/ba3c635f-e733-4755-9b81-9edd15173807" />
 
 ---
@@ -674,6 +684,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/a3afaf43-1d2a-4b81-a122-2a964c31837e" />
 <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/fe4c6b2b-6dbb-4b91-b25b-6c7fded2ad1d" />
 <img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/19d000c0-18ba-48b2-81d8-e277290a2e06" />
+<img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/ebb92073-0672-4147-a0f9-dbd8475ac8fc" />
 
 ---
 
@@ -699,6 +710,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Açıklama (HTML Editor)
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/7898b43a-d100-4dfd-8730-0096b17838d3" />
 <img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/9144fd98-1ec4-4e0f-95d6-f8fc7ffb2bb5" />
+<img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/5ed6d7b7-88b1-4298-ab44-46ad2676a9e3" />
 
 ---
 
@@ -714,6 +726,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/a4ad44a9-d41f-4ef9-a61e-4e8613eab0c8" />
 <img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/d735e137-e09d-486a-86a7-bad371e0ecaf" />
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/77659ebb-6069-45fe-a659-509d0e4e5035" />
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/ef502f83-8509-4fc9-8a8e-09d6c83ba7ee" />
 
 ---
 
@@ -729,6 +742,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/93e1f7e0-3c85-4405-bd42-2efa4379393b" />
 <img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/2be06754-1af6-4877-a147-1b792dec1c9c" />
 <img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/7f259090-8b31-48a5-b4b5-2fe6819475bc" />
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/f87f442d-8e4e-4300-8641-2c95fcf2cd54" />
 
 ---
 
@@ -764,6 +778,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Email
 <img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/76e4f6df-ee2b-4dbd-9ff3-db0ad60f4117" />
 <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/0e1c95e6-2ac9-4210-b144-fc782b5f3b4d" />
+<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/f7c4609d-5ca8-495e-8d95-e94ed0ae66b9" />
 
 ---
 
@@ -779,6 +794,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1912" height="946" alt="image" src="https://github.com/user-attachments/assets/c7b92add-79f7-45a6-9754-559cddb0fb7c" />
 <img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/16bbf547-644a-4c17-8711-763a20bfebd3" />
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/cf4b5719-e70a-413c-8555-5280cb9691a1" />
+<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/d20a970c-d5bb-4c20-9edd-7a0dc0c58e3e" />
 
 
 ---
@@ -795,6 +811,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/eb5223af-f16b-42c4-88b0-a03a4db2bbfe" />
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/106d6b5d-9737-4288-916e-c8028e4a57e1" />
 <img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/45bcbf99-a49f-42a7-89f8-9bfefd22b7b5" />
+<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/edeb372a-4eb1-4695-a09d-45541cf521be" />
 
 ---
 
@@ -823,7 +840,9 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 - Her blog için birden fazla etiket
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/1360bfe9-63a0-4613-a46b-12b718f2a0c9" />
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/200b7355-663d-4439-8034-1c25a130eeed" />
-![Uploading image.png…]()
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/e26825f3-79e1-4db2-ab10-76014abd6e7e" />
+
+
 
 ---
 ---
