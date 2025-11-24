@@ -676,7 +676,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/a3afaf43-1d2a-4b81-a122-2a964c31837e" />
 <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/fe4c6b2b-6dbb-4b91-b25b-6c7fded2ad1d" />
 <img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/19d000c0-18ba-48b2-81d8-e277290a2e06" />
-<img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/ebb92073-0672-4147-a0f9-dbd8475ac8fc" />
+
 
 ---
 
@@ -703,7 +703,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/7898b43a-d100-4dfd-8730-0096b17838d3" />
 <img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/9144fd98-1ec4-4e0f-95d6-f8fc7ffb2bb5" />
 <img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/5ed6d7b7-88b1-4298-ab44-46ad2676a9e3" />
-
+<img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/ebb92073-0672-4147-a0f9-dbd8475ac8fc" />
 ---
 
 #### 10. Kategori Yönetimi (Admin Category)
