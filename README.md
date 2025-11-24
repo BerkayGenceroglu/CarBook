@@ -188,12 +188,9 @@ Bu ekran, yeni kullanıcıların sisteme üye olması için geliştirilmiş bir 
 - Şifre Tekrar
 
 **ASP.NET Identity** ile güvenli kayıt işlemi gerçekleştirilir. Şifreler hash'lenerek veritabanında saklanır.
-
 Zaten hesabı olan kullanıcılar için sayfanın altında **"Giriş Yap"** linki bulunur.
 
-
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/50a552db-5db3-4754-a791-dc0d67700abe" />
-
 
 ---
 
@@ -213,8 +210,6 @@ Kayıtlı kullanıcıların sisteme güvenli bir şekilde giriş yapmasını sa�
 Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 
  <img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/caab8b3b-d6c3-4b37-aaee-69d618c26b00" />
-
-
 
 ---
 
