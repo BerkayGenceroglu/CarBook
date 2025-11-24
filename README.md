@@ -169,7 +169,7 @@ Proje, **MSSQL Server** kullanmaktadır ve **27 farklı tablo** içermektedir.
 
 ### 📝 Kayıt Ol (Register)
 
-Bu ekran, yeni kullanıcıların sisteme üye olması için geliştirilmiş bir kayıt formudur.
+Bu ekran,Admin Panelinde Hesabı Olmayan yeni kullanıcıların sisteme üye olması için geliştirilmiş bir kayıt formudur.
 
 **Form Alanları:**
 - İsim
@@ -187,7 +187,7 @@ Zaten hesabı olan kullanıcılar için sayfanın altında **"Giriş Yap"** link
 ---
 
 ### 🔐 Giriş Yap (Login)
-Kayıtlı kullanıcıların sisteme güvenli bir şekilde giriş yapmasını sağlayan sayfadır.
+Kayıtlı kullanıcıların sisteme güvenli bir şekilde Admin Paneline giriş yapmasını sağlayan sayfadır.
 
 **Form Alanları:**
 - Kullanıcı Adı
@@ -392,7 +392,7 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/22f01d78-f6f3-43be-b0be-e92768a409e7" />
 
 ---
-#### 7. Hakkımızda Sayfası (About)
+#### 8. Araç Fiyatları Sayfası (CarPricings)
 
 **Yol:** ` /CarPricing/Index`
 
@@ -411,7 +411,7 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 
 ---
 
-#### 8. Kampanya Sayfası (CampaignCar)
+#### 9. Kampanya Sayfası (CampaignCar)
 
 **Yol:** `/CampaignCar/Index`
 
@@ -427,7 +427,7 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 
 ---
 
-#### 9. İletişim Sayfası (Contact)
+#### 10. İletişim Sayfası (Contact)
 
 **Yol:** `/Contact/Index`
 
@@ -614,7 +614,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 
 ---
 
-#### 4. Marka Yönetimi (Admin Brand)
+#### 5. Marka Yönetimi (Admin Brand)
 
 **Yol:** `/Admin/AdminBrand/Index`
 
@@ -630,7 +630,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 
 ---
 
-#### 5. Banner Yönetimi (Admin Banner)
+#### 6. Banner Yönetimi (Admin Banner)
 
 **Yol:** `/Admin/AdminBanner/Index`
 
@@ -649,7 +649,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 
 ---
 
-#### 6. Hakkımızda Yönetimi (Admin About)
+#### 7. Hakkımızda Yönetimi (Admin About)
 
 **Yol:** `/Admin/AdminAbout/Index`
 
@@ -665,7 +665,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/93bbb205-156f-4849-8340-25c8f52af3e8" />
 ---
 
-#### 7. Servis Yönetimi (Admin Service)
+#### 8. Servis Yönetimi (Admin Service)
 
 **Yol:** `/Admin/AdminService/Index`
 
@@ -680,7 +680,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 
 ---
 
-#### 8. Müşteri Referansları (Admin Testimonial)
+#### 9. Müşteri Referansları (Admin Testimonial)
 
 **Yol:** `/Admin/AdminTestimonial/Index`
 
@@ -696,7 +696,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 
 ---
 
-#### 9. Blog Yönetimi (Admin Blog)
+#### 10. Blog Yönetimi (Admin Blog)
 
 **Yol:** `/Admin/AdminBlog/Index`
 
@@ -721,7 +721,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/ebb92073-0672-4147-a0f9-dbd8475ac8fc" />
 ---
 
-#### 10. Kategori Yönetimi (Admin Category)
+#### 11. Kategori Yönetimi (Admin Category)
 
 **Yol:** `/Admin/AdminCategory/Index`
 
@@ -737,7 +737,7 @@ Admin panel, **Area** yapısı ile ayrılmıştır.
 <img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/5ed6d7b7-88b1-4298-ab44-46ad2676a9e3" />
 ---
 
-#### 11. Yazar Yönetimi (Admin Author)
+#### 12. Yazar Yönetimi (Admin Author)
 
 **Yol:** `/Admin/AdminAuthor/Index`
 
