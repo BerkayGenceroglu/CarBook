@@ -191,7 +191,9 @@ Bu ekran, yeni kullanıcıların sisteme üye olması için geliştirilmiş bir 
 
 Zaten hesabı olan kullanıcılar için sayfanın altında **"Giriş Yap"** linki bulunur.
 
-> <img width="1916" height="943" alt="image" src="https://github.com/user-attachments/assets/bb28589c-16cb-497a-be74-0999b53d6013" />
+
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/50a552db-5db3-4754-a791-dc0d67700abe" />
+
 
 ---
 
@@ -210,7 +212,8 @@ Kayıtlı kullanıcıların sisteme güvenli bir şekilde giriş yapmasını sa�
 
 Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 
-> <img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/62cb48a9-8727-41fa-9336-36d07bdb758f" />
+ <img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/caab8b3b-d6c3-4b37-aaee-69d618c26b00" />
+
 
 
 ---
