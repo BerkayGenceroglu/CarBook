@@ -237,6 +237,7 @@ Henüz hesabı olmayan kullanıcılar için **"Kayıt Ol"** butonu mevcuttur.
 - AJAX ile dinamik veri yükleme
 - ViewComponent yapısı ile modüler kodlama
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/96b1c585-4b51-45c2-9e3a-0e90b9aca97b" />
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/8cde0ff1-c1b8-41e5-b68b-8e467d6856e2" />
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/f993b604-efd8-4eb3-bc0e-fd81b9bbd370" />
 <img width="1914" height="952" alt="image" src="https://github.com/user-attachments/assets/fcad3b0f-0a4f-4fdf-8be9-61658d8d9b44" />
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/8d5053a7-c6a6-4d65-9e5a-3c94c39d8918" />
