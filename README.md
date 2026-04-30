@@ -10,7 +10,7 @@
 
 **CarBook**, araç kiralama sektörü için geliştirilmiş, **çok katmanlı mimari** ve **modern teknolojilerle** tasarlanmış bir **web tabanlı yönetim sistemidir**.
 
-Bu proje sayesinde:
+Bu proje sayesinde: 
 
 **Müşteriler:**
 - Araç filosunu kolayca inceleyebilir ve online rezervasyon yapabilir
